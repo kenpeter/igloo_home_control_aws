@@ -1,0 +1,13 @@
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+
+public/iGloo
+public/phpmyadmin
+public/.htaccess.orig
+public/.well-known
+
+config/database.php
+*.swp
